@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Chien-Ying (Catherine) 👋 </h1>
 <h3 align="center">🚀 Frontend Developer | iOS Developer | MERN Stack | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="./Img/memoji.png" />
 <div align="left"> 
   <h3> 👩🏻‍💻 About Me </h3>
   
